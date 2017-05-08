@@ -14,5 +14,12 @@
     <properties>
         <ZNR_2_ver>1.0</ZNR_2_ver>
     </properties>
+    <modules>
+        <module>ZNR_1_CODE</module>
+    </modules>
+    <properties>
+        <ZNR_1_ver>1.0</ZNR_1_ver>
+    </properties>
+
 
 </project>
