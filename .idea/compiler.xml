@@ -22,11 +22,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="GitMTest" />
+        <module name="ZNR_2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="GitMTest" target="1.5" />
+      <module name="ZNR_2" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
