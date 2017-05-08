@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://D://GitMTest/GitMTest.iml" filepath="D://GitMTest/GitMTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZNR_1_CODE/ZNR_1_CODE.iml" filepath="$PROJECT_DIR$/ZNR_1_CODE/ZNR_1_CODE.iml" />
     </modules>
   </component>
 </project>
