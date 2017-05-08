@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://D://GitMTest/GitMTest.iml" filepath="D://GitMTest/GitMTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ZNR_1_CODE/ZNR_1_CODE.iml" filepath="$PROJECT_DIR$/ZNR_1_CODE/ZNR_1_CODE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GitMTest.iml" filepath="$PROJECT_DIR$/GitMTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZNR_2/ZNR_2.iml" filepath="$PROJECT_DIR$/ZNR_2/ZNR_2.iml" />
     </modules>
   </component>
 </project>
